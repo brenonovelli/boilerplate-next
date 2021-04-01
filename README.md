@@ -1,5 +1,6 @@
 
-![Benove](https://github.com/brenonovelli/boilerplate-next/master/public/img/logo-gh.svg)
+![Benove](https://raw.githubusercontent.com/brenonovelli/boilerplate-next/master/public/img/logo-gh.svg)
+
 
 This is a simple [Next.js](https://nextjs.org/) boilerplate.
 ![ci](https://github.com/brenonovelli/boilerplate-next/workflows/ci/badge.svg)
